@@ -43,8 +43,6 @@ class Moota extends CI_Controller{
 	curl_exec($curl);
 	}
 
-
-
 }
 
 ?>
